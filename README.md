@@ -1,2 +1,2 @@
 # hello-world
-a simple exercise to get me started on GItHub
+a simple exercise to get me started on GitHub
